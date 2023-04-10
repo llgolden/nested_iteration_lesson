@@ -5,11 +5,11 @@ animals = [:dog, :cat, :zebra, :quokka, :unicorn, :bear]
 # Use an enumerable to
 # 1. Return an array of animals as strings.
 
-string_animals = []
-animals.each do |animal|
-  string_animals << animal.to_s
-end
-p string_animals
+# string_animals = []
+# animals.each do |animal|
+#   string_animals << animal.to_s
+# end
+# p string_animals
 
 # OR 
 
